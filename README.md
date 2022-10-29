@@ -1,7 +1,7 @@
 # Amazon-Clone-01
 A frontend clone of e-commerce website of Amazon. This is created using HTML,CSS and Vanilla Javascript. The page is created for big screens i.e, laptops, pcs only.
 
-#Technologies:
+# Technologies:
 * HTML5
 * CSS3
 * CSS Animations
