@@ -83,7 +83,7 @@ body{
     overflow: hidden;
 }
 .input input{
-    outline: none;
+    outline-color: transparent;
     width:80%;
     font-size: 15px;
     padding: 5px 2px;
